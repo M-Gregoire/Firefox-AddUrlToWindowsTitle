@@ -1,0 +1,20 @@
+{
+
+  "manifest_version": 2,
+  "name": "urlInTitle",
+  "version": "1.0",
+
+  "description": "Add the url in the title of the window",
+
+  "icons": {
+    "48": "icons/tab-48.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["urlInTitle.js"]
+    }
+  ]
+
+}
