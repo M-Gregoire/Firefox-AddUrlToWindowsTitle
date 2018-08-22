@@ -1,0 +1,8 @@
+{
+  "name": "url-in-title-keepass",
+  "main":  "./urlInTitle/urlInTitle.js",
+  "version": "1.0.0",
+  "scripts": {
+    "jpm-travis": "jpm --binary `which firefox` test -v"
+  }
+}

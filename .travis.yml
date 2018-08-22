@@ -1,0 +1,17 @@
+language: node_js
+
+node_js:
+  - "4"
+
+addons:
+  firefox: "47.0"
+
+before_install:
+  - "export DISPLAY=:99.0"
+  - "sh -e /etc/init.d/xvfb start"
+
+before_script:
+  - npm install jpm -g
+
+script:
+  - npm run jpm-travis
