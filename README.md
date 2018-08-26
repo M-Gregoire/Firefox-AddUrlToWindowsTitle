@@ -5,3 +5,8 @@ You can find it [here](https://addons.mozilla.org/en-US/firefox/addon/url-in-tit
 
 This if a port of [add-url-to-window-title](https://addons.mozilla.org/fr/firefox/addon/add-url-to-window-title/) to Firefox Quantum.
 
+## Donation
+
+This project helped you ? You can buy me a cup of coffee  
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EWHGT3M9899J6)
+
