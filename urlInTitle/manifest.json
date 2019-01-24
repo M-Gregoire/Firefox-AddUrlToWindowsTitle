@@ -4,7 +4,7 @@
   "name": "URL in title",
   "version": "1.0",
 
-  "description": "Add the url in the title of the window. This is useful to help KeePass identify the correct entry to use. The is port of the extenson 'Add URL to Window Title (Advanced KeePass Usage)' by Eric.",
+  "description": "Add the url in the title of the window. This is useful to help KeePass identify the correct entry to use. The is a port of the extenson 'Add URL to Window Title (Advanced KeePass Usage)' by Eric.",
 
   "icons": {
     "48": "icons/tab-48.png"
